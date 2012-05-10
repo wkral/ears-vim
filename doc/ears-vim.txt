@@ -1,0 +1,11 @@
+*ears-vim.txt*                                               *ears-vim*
+
+ABOUT
+
+ears-vim is a plugin that will send the full-path filename of a most recently
+written file to a waiting ears server
+
+CONFIG
+
+To change the default host and port (localhost 3277) set 'g:ears_host_port' in
+your '.vimrc' file formatted "<host> <port>"
